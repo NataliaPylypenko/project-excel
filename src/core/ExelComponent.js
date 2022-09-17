@@ -6,7 +6,6 @@ export class ExelComponent extends DOMListener {
         this.name = options.name || ''
     }
 
-    // return component's template
     toHTML () {
         return ''
     }
